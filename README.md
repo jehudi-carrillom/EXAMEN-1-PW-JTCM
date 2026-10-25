@@ -1,4 +1,4 @@
-# Prueba #1 - Programación Web
+# Prueba #1 - Programación Web - Jehudi Tomas Carrillo Montero
 
 ## Requisitos
 Node.js (LTS) y pnpm (`npm install -g pnpm`)
